@@ -19,7 +19,7 @@ To explore the ShopPlusPlus e-commerce website, follow these steps:
 
 1. **Sign Up:** New users can sign up for an account on the website.
 2. **Browsing Products:** After signing in, users can browse various products available on the website.
-3. **Adding to Cart:** Users can add products to their cart for future purchase.
+3. **Adding to Cart:** Users can add products to their cart for future purchases.
 4. **Making Payments:** To proceed with making payments and completing purchases, users need to sign in. Without signing in, users can still browse products and add them to the cart, but they won't be able to proceed with payments.
 
 Please note that this website is part of a capstone project and may not be fully functional for making actual payments.
@@ -30,5 +30,5 @@ This project is a personal project developed as part of a capstone project and d
 
 ## Closing Statements
 
-- **Experience ShopPlusPlus:** Immerse yourself in the ShopPlusPlus experience by exploring our live demo [here](#https://panicky-bee-capris.cyclic.app/).
-- **Connect with Rohit Bose:** Connect with Rohit Bose on LinkedIn to stay updated on the latest projects and insights [here](#https://www.linkedin.com/in/rohitbose/).
+- **Experience ShopPlusPlus:** Immerse yourself in the ShopPlusPlus experience by exploring our live demo [here](https://panicky-bee-capris.cyclic.app/){:target="_blank"}.
+- **Connect with Rohit Bose:** Connect with Rohit Bose on LinkedIn to stay updated on the latest projects and insights [here](https://www.linkedin.com/in/rohitbose/){:target="_blank"}.
