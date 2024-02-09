@@ -30,5 +30,5 @@ This project is a personal project developed as part of a capstone project and d
 
 ## Closing Statements
 
-- **Experience ShopPlusPlus:** Immerse yourself in the ShopPlusPlus experience by exploring our live demo [here](https://panicky-bee-capris.cyclic.app/){:target="_blank"}.
-- **Connect with Rohit Bose:** Connect with Rohit Bose on LinkedIn to stay updated on the latest projects and insights [here](https://www.linkedin.com/in/rohitbose/){:target="_blank"}.
+- **Experience ShopPlusPlus:** Immerse yourself in the ShopPlusPlus experience by exploring our live demo [here](https://panicky-bee-capris.cyclic.app/).
+- Coded by [Rohit Bose](https://www.linkedin.com/in/rohitbose/).
