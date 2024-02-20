@@ -28,7 +28,4 @@ Please note that this website is part of a capstone project and may not be fully
 
 This project is a personal project developed as part of a capstone project and does not include any specific licensing. It is intended for educational purposes and not for distribution or commercial use.
 
-## Closing Statements
-
-- **Experience ShopPlusPlus:** Immerse yourself in the ShopPlusPlus experience by exploring our live demo [here](https://panicky-bee-capris.cyclic.app/).
 - Coded by [Rohit Bose](https://www.linkedin.com/in/rohitbose/).
